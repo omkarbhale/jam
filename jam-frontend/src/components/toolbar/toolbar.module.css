@@ -1,0 +1,45 @@
+.toolbar {
+    position: relative;
+    display: flex;
+    width: 60px;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    justify-content: space-between;
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.toolbar input[type="color"] {
+    width: 40px;
+    height: 40px;
+    border: none;
+    background: none;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.toolbar input:hover {
+    transform: scale(1.1);
+}
+
+.toolbar input[type="range"] {
+    appearance: slider-vertical;
+    width: 40px;
+}
+
+.toolbar button {
+    border: none;
+    padding: 16px 8px;
+    color: white;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    background-color: rgb(0, 155, 65);
+    cursor: pointer;
+    margin-top: 10px;
+}
+.toolbar button:hover {
+    background-color: rgb(0, 119, 155);
+}
