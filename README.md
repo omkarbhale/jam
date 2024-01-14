@@ -1,6 +1,6 @@
 # Jam
 Links to the repos reperately:
-- (Link to frontend repo: [https://github.com/omkarbhale/jam-backend](https://github.com/omkarbhale/jam-frontend))
+- (Link to frontend repo: [https://github.com/omkarbhale/jam-frontend](https://github.com/omkarbhale/jam-frontend))
 - (Link to backend repo: [https://github.com/omkarbhale/jam-backend](https://github.com/omkarbhale/jam-backend))
 
 ## Stack used
